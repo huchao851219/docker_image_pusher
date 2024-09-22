@@ -1,3 +1,4 @@
 
-infiniflow/ragflow:main
+infiniflow/ragflow:latest
 
+elastic/elasticsearch:latest
